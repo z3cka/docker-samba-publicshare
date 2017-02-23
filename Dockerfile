@@ -1,5 +1,5 @@
-FROM debian:jessie
-MAINTAINER Jens Erat <email@jenserat.de>
+FROM ubuntu:xenial
+MAINTAINER Casey Grzecka <c@sey.gr>
 
 VOLUME /srv
 EXPOSE 137 138 139 445
